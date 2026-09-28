@@ -6,6 +6,9 @@
 
 ## 🚀 Live Demo & Overview
 
+- **Live Production URL**: [https://echogpt-gray.vercel.app](https://echogpt-gray.vercel.app)
+- **GitHub Repository**: [https://github.com/abdullahazmir/echoGPT](https://github.com/abdullahazmir/echoGPT)
+
 This project is a redesign and frontend implementation for the **EchoGPT** ecosystem. It unifies frontier AI models (**GPT-4o, Claude 3.5 Sonnet, Google Gemini 1.5 Pro, DeepSeek R1, Llama 3**) into a unified web application, an interactive single-page landing site, and a Chrome Extension concept.
 
 - **Landing Page (Task 2)**: [`/`](file:///e:/Projects/echoGPT/src/app/page.tsx) — Feature breakdown, model matrix, pricing tiers, FAQ accordion, testimonials, and interactive dual-model preview.
